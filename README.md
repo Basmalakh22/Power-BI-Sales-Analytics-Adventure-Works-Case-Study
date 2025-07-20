@@ -15,14 +15,6 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 
 ---
 
-## Deliverables
-
-- Power BI Report (.pbix) with rich interactivity and visuals.
-- Documentation (3-5 pages) covering methodology, insights, DAX logic, and advanced features.
-- Presentation (5–10 slides) summarizing key findings and strategic recommendations.
-
----
-
 ## Business Questions Addressed
 
 ### 1. Sales Performance
