@@ -1,12 +1,12 @@
 # AdventureWorks Sales & Customer Analytics Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks'** sales performance, customer behavior, and regional insights. This project integrates advanced Power BI features and delivers actionable recommendations for stakeholders.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze sales performance by time period and region.
 - Discover customer behavior patterns and profit contribution.
@@ -15,15 +15,15 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 
 ---
 
-## 📦 Deliverables
+## Deliverables
 
-- ✅ Power BI Report (.pbix) with rich interactivity and visuals.
-- ✅ Documentation (3-5 pages) covering methodology, insights, DAX logic, and advanced features.
-- ✅ Presentation (5–10 slides) summarizing key findings and strategic recommendations.
+- Power BI Report (.pbix) with rich interactivity and visuals.
+- Documentation (3-5 pages) covering methodology, insights, DAX logic, and advanced features.
+- Presentation (5–10 slides) summarizing key findings and strategic recommendations.
 
 ---
 
-## ❓ Business Questions Addressed
+## Business Questions Addressed
 
 ### 1. Sales Performance
 
@@ -51,7 +51,7 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 ### Imported Tables
 
@@ -75,7 +75,7 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 
 ---
 
-## 📐 Data Model: Galaxy Schema
+## Data Model: Galaxy Schema
 
 ### Fact Tables
 
@@ -92,7 +92,7 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 
 ---
 
-## 🧠 Key DAX Measures
+## Key DAX Measures
 
 - `Total Revenue`, `YTD Revenue`, `Previous Month Revenue`, `Revenue Target`
 - `Average Revenue`, `Average Retail Price`, `Adjustment Price`
@@ -102,7 +102,7 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 
 ---
 
-## 🧩 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Executive Summary
 
@@ -131,19 +131,19 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 
 ---
 
-## 💡 Advanced Features
+## Advanced Features
 
-- ✅ **Drill-Through Pages**
-- ✅ **Field Parameters** (Orders, Profit, Returns, etc.)
-- ✅ **Numeric Parameters** (Price Adjustment slider)
-- ✅ **Custom Tooltips**
-- ✅ **Bookmarks & Navigation Buttons**
-- ✅ **Icons & User-Friendly Design**
-- ✅ **Row-Level Security (Optional)**
+- **Drill-Through Pages**
+- **Field Parameters** (Orders, Profit, Returns, etc.)
+- **Numeric Parameters** (Price Adjustment slider)
+- **Custom Tooltips**
+- **Bookmarks & Navigation Buttons**
+- **Icons & User-Friendly Design**
+- **Row-Level Security (Optional)**
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Microsoft Power BI Desktop**
 - **Power Query**
