@@ -23,15 +23,11 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 - Top-performing products and categories.
 - Revenue-driving regions.
 
-![page 1](/page1.jpeg )
-
 ### 2. Customer Insights
 
 - Top 100 customers by number of orders.
 - Order trends by income level and occupation.
 - Profit-generating customers.
-
-![page 2](/page2.jpeg )
 
 ### 3. Product & Market Trends
 
@@ -39,15 +35,11 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 - Profit margin analysis.
 - Price impact on profit.
 
-![page 3](/page3.jpeg )
-
 ### 4. Operational Efficiency
 
 - Average Order Value (AOV) trends.
 - Seasonal sales patterns.
 - Regional shipping performance.
-
-![page 4](/page4.jpeg )
 
 ---
 
@@ -114,10 +106,14 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 - Product & Category performance
 - Return Analysis
 
+![page 1](/page1.jpeg )
+
 ### 2. Regional Performance
 
 - Country-level orders (map)
 - Continent slicer
+
+![page 2](/page2.jpeg )
 
 ### 3. Product Details (Drill-through)
 
@@ -125,12 +121,16 @@ An advanced, interactive Power BI dashboard designed to analyze **AdventureWorks
 - Profit & Order Trends
 - Field Parameters & Numeric Inputs (Optional)
 
+![page 3](/page3.jpeg )
+
 ### 4. Customer Insights
 
 - Revenue per Customer
 - Trends by Income & Occupation
 - Top 100 Customers table
 - Top Customer stats (cards)
+
+![page 4](/page4.jpeg )
 
 ---
 
